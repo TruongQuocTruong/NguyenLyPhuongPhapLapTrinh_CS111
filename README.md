@@ -1,2 +1,1 @@
-# CS111.L22.KHCL
-Nguyen Ly &amp; Phuong Phap Lap Trinh
+Các assignments và projects môn Nguyên Lý & Phương Pháp Lập Trình
